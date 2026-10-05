@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+sample_data/
+*.pkl
+*.pt
+*.pth
